@@ -15,4 +15,5 @@
 /log/*.log
 /tmp
 
+# Ignore all cloud 9 and hidden files files.
 .c9/
